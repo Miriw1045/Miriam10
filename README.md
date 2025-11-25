@@ -56,8 +56,9 @@ I am a **fast learner** with a **strong work ethic**, **high motivation**, and a
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-4285F4?logo=githubactions&logoColor=fff)
 
 ### ⚡ AI & Automation
-![OpenAI](https://cdn.simpleicons.org/openai/412991)
-![LLM](https://cdn-icons-png.flaticon.com/512/4712/4712109.png)
+<img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" width="50" height="50" />
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" alt="LLM" width="50" height="50" />
+
 
 ### 🧰 Tools & IDEs
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
